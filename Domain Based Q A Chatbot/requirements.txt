@@ -1,0 +1,43 @@
+# Core Machine Learning & NLP Frameworks
+transformers
+datasets
+sentence-transformers
+accelerate
+einops
+
+# LangChain & its components for RAG and orchestration
+langchain
+langchain-community
+langchainhub
+langchain-text-splitters
+
+# Vector Databases for RAG
+faiss-cpu
+# faiss-gpu             # Use this instead if you have a GPU
+chromadb
+
+# Document Processing
+pypdf2
+pdfminer.six
+unstructured
+
+# Text-to-Speech and Audio
+# gtts
+# pyttsx3
+# playsound
+
+# General Utilities
+numpy
+pandas
+tqdm
+scikit-learn
+
+# Optional: For OpenAI models
+openai
+
+# Optional: For Hugging Face Hub API
+huggingface-hub
+
+# Optional: For Web UI
+gradio
+streamlit
